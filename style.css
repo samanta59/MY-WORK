@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+        background-color: azure;
+}
+
+#apps{
+    width: 100%;
+    height: 800px;
+    background-color:bisque;
+}
+
+#games{
+    width: 100%;
+    height: 800px;
+    background-color:blanchedalmond;
+}
+
+#chatbot{
+    width: 100%;
+    height: 800px;
+    background-color: antiquewhite;
+}
+
+img{
+    margin: 30px;
+    height: 350px;
+    width: 300px;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+    
